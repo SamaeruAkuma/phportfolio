@@ -1,0 +1,117 @@
+body {
+    background-color: #5c00e6;
+	width: 95%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+main {
+	padding-top: 0.2em;
+	width: 96%;
+}
+
+h1 {
+    text-align: center;
+    font-style: normal;
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+
+h3 {
+	color: white;
+	font-size: 1.5rem;
+	padding-left: 1rem;
+	padding-bottom: 1rem;
+}
+
+h4 {
+	color: white;
+	font-size: 1.2rem;
+	text-align: center;
+	padding-bottom: 1rem;
+}
+
+
+p {
+	color: white;
+	font-size: 17px;
+	padding-left: 1rem;
+	padding-bottom: 1rem;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	background-color: black;
+	padding: 0.5em;
+	border-radius: 10px;
+}
+
+nav ul li button {
+	width: 75%;
+	border-radius: 20px;
+	cursor: pointer;
+}
+
+nav ul li button:hover {
+	background-color: darkgray;
+}
+
+#about-nav {
+	float: left; 
+	width: 20%; 
+}
+
+main a {
+    color: black;
+}
+main a:hover{
+    color: darkred;
+}
+
+#High-School p {
+	padding-left: 1rem;
+	color: white;
+	font-size: 19px;
+}
+
+#College p {
+	padding-left: 1rem;
+	color: white;
+	font-size: 19px;
+}
+
+#client {
+	text-align: center;
+	padding-top: 1rem;
+}
+
+#client button {
+	font-size: 1.5em;
+	border-radius: 10px;
+}
+
+#client button:hover {
+	background-color: darkgray;
+}
+
+#client button:active {
+	background-color: red;
+}
+
+table {
+	margin: 0 auto;
+	background-color: white;
+} 
+
+table, th, td {
+	border: 2px solid black;  
+}
+
+
+

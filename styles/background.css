@@ -1,0 +1,69 @@
+h2 { 
+	font-size: 23pt;
+}
+
+p {
+	color: white;
+	font-size: 16pt;
+	text-align: center;
+	border: 2px clear; 
+	padding-bottom: 1rem;
+}
+
+#html {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 15%;
+	
+}
+
+#css {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 12%;
+	
+}
+
+#js {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 5%;	
+}
+
+#python {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 8%;	
+}
+
+#sql {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 8%;
+}
+
+#java {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 8%;
+}
+
+#csharp {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 8%;
+}
+
+#unity {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 8%;
+}
